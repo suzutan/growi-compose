@@ -51,4 +51,4 @@ services:
     restart: unless-stopped
     volumes:
       - ./volumes/es_data:/usr/share/elasticsearch/data
-      - ./elasticsearch.yml:/usr/share/elasticsearch/config/elasticsearch.yml
+      - ./elasticsearch.yaml:/usr/share/elasticsearch/config/elasticsearch.yml

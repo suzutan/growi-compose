@@ -5,7 +5,7 @@
 ### dependencies
 
 ```
-sudo apt install docker docker-ce
+sudo apt install docker docker-compose
 ```
 
 ### run

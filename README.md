@@ -4,7 +4,7 @@
 
 ### dependencies
 
-```
+```bash
 sudo apt install docker docker-compose
 ```
 

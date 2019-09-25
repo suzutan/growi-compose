@@ -41,7 +41,7 @@ services:
 
   elasticsearch:
     build:
-      context: .
+      context: ./elasticsearch
       dockerfile: ./Dockerfile
     environment:
       - bootstrap.memory_lock=true
